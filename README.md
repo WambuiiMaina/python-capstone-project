@@ -11,7 +11,6 @@ Missed appointments, poor follow-up, and inefficient triage are common challenge
 The system is built to be simple, modular, and extensible, making it suitable for small clinics or pilot telehealth programs.
 
 ##  Project Objectives
-- Project Objectives
 - Maintain organized and confidential patient records
 - Schedule and monitor telehealth consultations
 - Perform basic symptom-based triage to support clinical decision-making
@@ -47,6 +46,24 @@ telehealth-system/
 ├── main.py
 ├── README.md
 └── requirements.txt
+
+## Data Source
+
+- Mock patient and appointment data for demonstration purposes
+- Symptom triage rules based on general clinical guidelines
+
+ ## Success Criteria
+- This project will be considered successful if it can:
+- Register and manage at least 5 patients
+- Schedule and track telehealth appointments
+- Perform symptom triage with clear severity output
+- Store and retrieve data from the database
+- Handle invalid inputs with proper error handling
+
+## Stretch goals
+- Add a simple GUI or web interface
+- Integrate real SMS or email notification APIs
+- Add role-based access (admin, clinician)
 
 ## Installation 
 git clone https://github.com/wambuiimaina/python-capstone-project.git
