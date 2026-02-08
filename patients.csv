@@ -1,0 +1,6 @@
+patient_id,first_name,last_name,age,phone,email
+1,Alice,Maina,29,0712345678,alice@mail.com
+2,Brian,Kariuki,35,0722345678,brian@mail.com
+3,Clara,Wanjiku,42,0733345678,clara@mail.com
+4,David,Otieno,50,0744345678,david@mail.com
+5,Esther,Muthoni,23,0755345678,esther@mail.com

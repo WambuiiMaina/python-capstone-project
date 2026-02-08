@@ -1,0 +1,6 @@
+appointment_id,patient_id,date_time,status
+1,1,2026-03-10 10:30,Scheduled
+2,2,2026-03-10 11:00,Scheduled
+3,3,2026-03-11 09:00,Scheduled
+4,1,2026-03-12 14:00,Completed
+5,4,2026-03-13 16:00,Missed
